@@ -1,4 +1,4 @@
-Hi there! This is code implementation of Data Encryption Standard (DES)
+Hi there! This is code implementation of Data Encryption Standard (DES).
 
 With this code, you can encrypt and decrypt data in the MS Visual Studio console, as well as do it through a file. 
 To do this via a file, create a text document in the project directory and name it as "открытый текст.txt". 
